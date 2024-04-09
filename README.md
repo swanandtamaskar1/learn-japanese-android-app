@@ -13,7 +13,8 @@ Install the apk and run the app in your android device.
 ```
 
 Few screens from the application:
-![Screenshot 1](https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/8c1fedac-47ca-4ec6-9483-b1a19a6032e2| width = 100)
-![Screenshot_2](https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/fb12dc50-9981-487e-936a-726732beb94b| width = 100)
-![Screenshot_3](https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/3bd588e8-e59a-48ff-a1f2-0c98f239ca64| width = 100)
-![Screenshot_4](https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/77f9dcd6-f136-452a-bfcb-6a3640340d72| width = 100)
+<img src="https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/8c1fedac-47ca-4ec6-9483-b1a19a6032e2" alt="Your image title" width="250"/>
+![Screenshot 1](https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/8c1fedac-47ca-4ec6-9483-b1a19a6032e2)
+![Screenshot_2](https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/fb12dc50-9981-487e-936a-726732beb94b)
+![Screenshot_3](https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/3bd588e8-e59a-48ff-a1f2-0c98f239ca64)
+![Screenshot_4](https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/77f9dcd6-f136-452a-bfcb-6a3640340d72)
