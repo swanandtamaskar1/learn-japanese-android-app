@@ -16,3 +16,13 @@ Install the apk and run the app in your android device.<br/>
 <img src="https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/fb12dc50-9981-487e-936a-726732beb94b" alt="Your image title" width="300"/><br/>
 <img src="https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/77f9dcd6-f136-452a-bfcb-6a3640340d72" alt="Your image title" width="300"/><br/>
 <img src="https://github.com/swanandtamaskar1/learn-japanese-android-app/assets/35898035/3bd588e8-e59a-48ff-a1f2-0c98f239ca64" alt="Your image title" width="300"/><br/>
+
+This project was developed under the guidance of our professors at Rajarshi Shahu College Of Engineering.<br/>
+Software Developement Lab (Java and Android).<br/>
+IDE: Android Studio 3.2.0<br/>
+Database: Google Firebase Realtime*<br/>
+
+Developers:<br/>
+Saurabh Sutar<br/>
+Swanand Tamaskar<br/>
+Himanshu Prasad<br/>
