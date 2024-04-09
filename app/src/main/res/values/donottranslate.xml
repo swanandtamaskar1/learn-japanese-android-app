@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Japanese translation for color red -->
+    <string name="jap_color_red">Akai</string>
+
+    <!-- Japanese translation for color mustard yellow -->
+    <string name="jap_color_mustard_yellow">Ki-iro</string>
+
+    <!-- Japanese translation for color green -->
+    <string name="jap_color_green">Midori</string>
+
+    <!-- Japanese translation for color brown -->
+    <string name="jap_color_brown">Cha-iro</string>
+
+    <!-- Japanese translation for color black -->
+    <string name="jap_color_black">Kuro</string>
+
+    <!-- Japanese translation for color white -->
+    <string name="jap_color_white">Shi-iro</string>
+
+    <!-- Japanese translation for father -->
+    <string name="jap_family_father">Chi-chi / Otosan</string>
+
+    <!-- Japanese translation for mother -->
+    <string name="jap_family_mother">Haha / Okaasan</string>
+
+    <!-- Japanese translation for son -->
+    <string name="jap_family_son">Musuko</string>
+
+    <!-- Japanese translation for daughter -->
+    <string name="jap_family_daughter">Musume</string>
+
+    <!-- Japanese translation for older brother -->
+    <string name="jap_family_older_brother">Ani / Oniisan</string>
+
+    <!-- Japanese translation for younger brother -->
+    <string name="jap_family_younger_brother">Otouto</string>
+
+    <!-- Japanese translation for older sister -->
+    <string name="jap_family_older_sister">Ane / Oneesan</string>
+
+    <!-- Japanese translation for younger sister -->
+    <string name="jap_family_younger_sister">Imouto</string>
+
+    <!-- Japanese translation for grandmother -->
+    <string name="jap_family_grandmother">Sobo / Obaasan</string>
+
+    <!-- Japanese translation for grandfather -->
+    <string name="jap_family_grandfather">Sofu / Ojiisan</string>
+
+    <!-- Japanese translation for number one -->
+    <string name="jap_number_one">Ichi</string>
+
+    <!-- Japanese translation for number two -->
+    <string name="jap_number_two">Ni</string>
+
+    <!-- Japanese translation for number three -->
+    <string name="jap_number_three">San</string>
+
+    <!-- Japanese translation for number four -->
+    <string name="jap_number_four">Shi / Yon</string>
+
+    <!-- Japanese translation for number five -->
+    <string name="jap_number_five">Go</string>
+
+    <!-- Japanese translation for number six -->
+    <string name="jap_number_six">Roku</string>
+
+    <!-- Japanese translation for number seven -->
+    <string name="jap_number_seven">Shichi / Nana</string>
+
+    <!-- Japanese translation for number eight -->
+    <string name="jap_number_eight">Hachi</string>
+
+    <!-- Japanese translation for number nine -->
+    <string name="jap_number_nine">Ku / Kyu</string>
+
+    <!-- Japanese translation for number ten -->
+    <string name="jap_number_ten">Jyu</string>
+
+    <!-- Japanese translation for phrase "Good Morning!" -->
+    <string name="jap_phrase_GoodMorning">Ohayo! / Ohayo Gozaimasu!</string>
+
+    <!-- Japanese translation for phrase "Good Afternoon!" -->
+    <string name="jap_phrase_Hi_Hello_GoodAfternoon">Konnichiwa</string>
+
+    <!-- Japanese translation for phrase "Good Evening!" -->
+    <string name="jap_phrase_GoodEvening">Konbawa!</string>
+
+    <!-- Japanese translation for phrase "Good Night!" -->
+    <string name="jap_phrase_GoodNight">Oyasumi / Oyasuminasai</string>
+
+    <!-- Japanese translation for phrase "How are you?" -->
+    <string name="jap_phrase_HowAreYou">Genkidesuka?</string>
+
+    <!-- Japanese translation for phrase "See you Tomorrow" -->
+    <string name="jap_phrase_SeeYouTomorrow">Mata ashita</string>
+
+    <!-- Japanese translation for phrase "See You Later!" -->
+    <string name="jap_phrase_SeeYouLater">Dewa / Mata</string>
+
+    <!-- Japanese translation for phrase "ByeBye" -->
+    <string name="jap_phrase_ByeBye">Sayonara..!</string>
+
+</resources>

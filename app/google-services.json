@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "263093214755",
+    "firebase_url": "https://learn-japanese-7b8b3.firebaseio.com",
+    "project_id": "learn-japanese-7b8b3",
+    "storage_bucket": "learn-japanese-7b8b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263093214755:android:a4c27a9e804df65e",
+        "android_client_info": {
+          "package_name": "com.android.learnjapanese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263093214755-9ifal5slqq6eblte100deit9ltfmhiu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIeEffZTZW__nhWYOVVb39sKAarchVNt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
