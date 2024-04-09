@@ -19,6 +19,7 @@ Install the apk and run the app in your android device.<br/>
 
 This project was developed under the guidance of our professors at Rajarshi Shahu College Of Engineering.<br/>
 Software Developement Lab (Java and Android).<br/>
+
 IDE: Android Studio 3.2.0<br/>
 Database: Google Firebase Realtime*<br/>
 
